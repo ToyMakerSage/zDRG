@@ -3,8 +3,14 @@ Zen Dragoon - A Triggernometry Trigger Toolkit for Dragoons in FFXIV 5.X
 
 ## Disclaimer
 zDRG is currently in pre-release state and active development.
-While functional, it is not yet complete nor has comprehensive testing and debugging been done.
-You use zDRG in it's pre-release form understanding that.
+
+While functional, it is not yet complete, has not been configured with user modification in mind, nor has comprehensive testing and debugging been done.
+
+You use zDRG in it's pre-release form understanding that and knowing that versions prior to the 1.0 release, will require a good amount of modification and tweaking to be fit for use for other users.
+
+The code base on this github while in pre-release is intended for people to be able to draw ideas from for their own projects, provide feedback and suggestions or to be forked for people to make their own things based off zDRG.
+
+zDRG v1.0 will be built with a focus on for use by users other than myself, with easy configuring and modification.
 
 ## Feature List
 zDRG's Features will be individually toggleable by version 1.0, but currently are all enabled when in use.
