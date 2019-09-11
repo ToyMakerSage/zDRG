@@ -25,7 +25,7 @@ zDRG's Features will be individually toggleable by version 1.0, but currently ar
 * Final Fantasy XIV (Duh)
 * [Advanced Combat Tracker](https://advancedcombattracker.com/)
 * [Triggernometry](https://github.com/paissaheavyindustries/Triggernometry)
-* Creation of in-game macros to facilitiate the single button per rotation
+* [Creation of in-game macros to facilitiate the button bloat reduction feature](https://github.com/ToyMakerSage/zDRG/blob/master/Docs/In-Game%20Macros.md)
 
 ## Installation
 1. Open up ACT navigate to the Triggernometry tab
