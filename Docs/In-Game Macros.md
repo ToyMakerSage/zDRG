@@ -3,7 +3,7 @@ The macros below need to be made in FFXIV for zDRG to be able to correctly contr
 
 The syntax for /hotbar is `/hotbar set <Ability Name> <Hotbar> <Hotbar Button>`
 
-You don't have to use the suggested KeyBinds, but be aware that zDRG as of v0.72 expects the following keybinds to lead to the expected macros and you will need to modify the triggers in zDRG's Bloat folder to point them to the correct keybind if you choose to use different keys.
+You don't have to use the suggested KeyBinds, but be aware that zDRG as of v0.73 expects the following keybinds to lead to the expected macros and you will need to modify the triggers in zDRG's Bloat folder to point them to the correct keybind if you choose to use different keys.
 
 ## Vorpal to Full (F2)
 ```
