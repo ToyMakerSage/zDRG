@@ -34,3 +34,10 @@ zDRG's Features will be individually toggleable by version 1.0, but currently ar
 1. Enter the following URI into the field: https://raw.githubusercontent.com/ToyMakerSage/zDRG/master/Triggers/zDRG.xml
 1. Click Next
 1. Click Import
+
+## Known Issues
+* The missed positional audio cue is incorrectly triggered on the 5th action of the debuff and full thrust combos
+* Regex can be further refined to even further reduce backtracking in Regex processing
+
+## Special Thanks
+zDRG was inspired by [Fryte Avarise of Gilgamesh](https://www.twitch.tv/fryteavarise)'s [SMN Button Bloat Triggers](https://docs.google.com/document/d/1IR5O7kPxeTAb4qZaL4CVNyNCWBcAExkwtnyjYb5bItQ/edit?usp=sharing)
