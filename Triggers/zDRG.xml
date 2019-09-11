@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <TriggernometryExport Version="1">
-  <ExportedFolder FFXIVJobFilterEnabled="true" FFXIVJobFilter="2097152" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="10e1d0c3-f8de-4f84-b38b-cd1f7d4a29f4" Name="zDRG v0.73" Enabled="true">
+  <ExportedFolder FFXIVJobFilterEnabled="true" FFXIVJobFilter="2097152" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="10e1d0c3-f8de-4f84-b38b-cd1f7d4a29f4" Name="zDRG v0.8" Enabled="true">
     <Folders>
       <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="e010c2a6-ad52-4519-a232-4034ae43e184" Name="Trackers" Enabled="true">
         <Folders />
