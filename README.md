@@ -9,7 +9,7 @@ You use zDRG in it's pre-release form understanding that.
 ## Feature List
 zDRG's Features will be individually toggleable by version 1.0, but currently are all enabled when in use.
 * Missed positional audio alerts
-* Responsive single buttons for each combos (Debuff, Full Thrust and AoE combos)
+* Responsive single buttons for each combo (Debuff, Full Thrust and AoE combos)
 * Jump and Mirage Dive merged
 * Buff/Debuff Timer Tracking
 * GCD Tracking
