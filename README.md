@@ -1,5 +1,6 @@
 # zDRG v0.72
 Zen Dragoon - A Triggernometry Trigger Toolkit for Dragoons in FFXIV 5.X
+[Video Demonstration](https://streamable.com/nm470)
 
 ## Disclaimer
 zDRG is currently in pre-release state and active development.
